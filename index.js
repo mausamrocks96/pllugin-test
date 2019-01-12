@@ -1,2 +1,2 @@
 const node =document.getElementsById("test");
-node.innerHTML = "Hello World";
+node.innerHTML = "Hello World from another side";
